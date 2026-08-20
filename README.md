@@ -2,10 +2,11 @@
 
 ## 📌 Sobre o projeto
 
-Análise exploratória do dataset público da Olist, maior marketplace
-brasileiro, utilizando SQL puro com SQLite. O projeto parte da definição
-de hipóteses de negócio antes de qualquer query, valida ou refuta cada
-hipótese com dados, e chega em conclusões acionáveis para o contexto
+Análise exploratória do dataset público da Olist, plataforma brasileira que 
+conecta lojistas aos principais marketplaces do país, com 99.441 pedidos e
+8 tabelas relacionadas, utilizando SQL puro com SQLite. O projeto parte
+da definição de hipóteses de negócio antes de qualquer query, valida ou refuta
+cada hipótese com dados, e chega em conclusões acionáveis para o contexto
 de e-commerce brasileiro.
 
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
